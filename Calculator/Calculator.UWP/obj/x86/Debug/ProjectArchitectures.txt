@@ -1,0 +1,2 @@
+C:\Users\youssefabdo\Desktop\XAM130-master\Exercise 1\Start\Calculator\Calculator.UWP\Calculator.UWP.csproj;x86
+C:\Users\youssefabdo\Desktop\XAM130-master\Exercise 1\Start\Calculator\Calculator\Calculator.csproj;neutral
